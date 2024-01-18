@@ -5,23 +5,23 @@ import Coctail from "../assets/cocktail-cake.avif";
 
 export const MenuList = [
     {
-      name: "Wedding cake",
+      name: "Сватбена торта",
       image: Wedding
       ,
       price: 15.99,
     },
     {
-      name: "French cake",
+      name: "Френска торта",
       image: France,
       price: 11.99,
     },
     {
-      name: "Noazet cake",
+      name: "Торта ноазет",
       image: Noazet,
-      price: 256.53,
+      price: 13.53,
     },
     {
-      name: "Party cake",
+      name: "Парти торта",
       image: Coctail,
       price: 17.99,
     },

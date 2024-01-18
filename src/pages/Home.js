@@ -29,7 +29,7 @@ function Home() {
           <button>ВИЖ ПИЦИ</button>
         </Link> <br/>
         <Link to="/desserts">
-          <button>ВИЖ ДЕСЕРТИ</button>
+          <button className='secondButton'>ВИЖ ДЕСЕРТИ</button>
         </Link>
       </div>
     </div>

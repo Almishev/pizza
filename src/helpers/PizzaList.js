@@ -7,63 +7,46 @@ import Expensive from "../assets/expensive.jpg";
 
 export const MenuList = [
   {
-    name: "Pepperoni Pizza",
+    name: "Пица Пеперони",
     image: Pepperoni,
     price: 15.99,
   },
   {
-    name: "Margherita Pizza",
+    name: "Пица Маргарита",
     image: Margherita,
     price: 11.99,
   },
   {
-    name: "PedroTech Special Pizza",
+    name: "Пица на Готвача",
     image: PedroTechSpecial,
-    price: 256.53,
+    price: 26.53,
   },
   {
-    name: "Vegan Pizza",
+    name: "Вегетерианска пица",
     image: Vegan,
     price: 17.99,
   },
   {
-    name: "Pineapple Pizza",
+    name: "Пица Ананас",
     image: Pineapple,
     price: 4.99,
   },
+  
   {
-    name: "Very Expensive Pizza",
-    image: Expensive,
-    price: 1997.99,
-  },
-  {
-    name: "Pepperoni Pizza",
+    name: "Пица Капрезе",
     image: Pepperoni,
-    price: 15.99,
+    price: 8.99,
   },
   {
-    name: "Margherita Pizza",
+    name: "Пица Сладка",
     image: Margherita,
     price: 11.99,
   },
+ 
+  
   {
-    name: "PedroTech Special Pizza",
-    image: PedroTechSpecial,
-    price: 256.53,
-  },
-  {
-    name: "Vegan Pizza",
-    image: Vegan,
-    price: 17.99,
-  },
-  {
-    name: "Pineapple Pizza",
-    image: Pineapple,
-    price: 4.99,
-  },
-  {
-    name: "Very Expensive Pizza",
+    name: "Пица Микс",
     image: Expensive,
-    price: 1997.99,
+    price: 12.99,
   },
 ];

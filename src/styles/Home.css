@@ -85,7 +85,7 @@
 }
 
 .headerContainer button:hover {
-  background-color: #07090a;
+  background-color: #e51919;
   cursor: pointer;
   transition: 0.3s ease-in;
 }
@@ -98,10 +98,7 @@
   .headerContainer button{
     margin-top: 2px;
   }
-  .headerContainer h1,
-  .headerContainer p {
-    
-  }
+  
 
   .headerContainer {
     margin-left: 0px;
@@ -130,11 +127,16 @@
   .headerContainer button {
     background-color: white;
     color: #121619;
-    margin-bottom: 30px;
+  
+  }
+
+  .secondButton{
+    margin-bottom: 10px;
   }
 
   .headerContainer button:hover {
-    background-color: rgb(225, 225, 225);
-    color: #121619;
+    background-color: rgb(112, 101, 101);
+    color: rgb(245, 247, 244);
+    
   }
 }
