@@ -21,7 +21,10 @@ function App() {
         <Navbar />
 
         <Switch>
-          <Route path='/' compoent={Home} exact>
+        <Route index compoent={Home} exact>
+            <Home />
+          </Route>
+          <Route path='/home' compoent={Home} exact>
             <Home />
           </Route>
           <Route path='/about' compoent={About} exact>
