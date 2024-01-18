@@ -21,24 +21,23 @@ function App() {
         <Navbar />
 
         <Switch>
-        <Route index compoent={Home} exact>
+
+          <Route path='/home' component={Home} exact>
             <Home />
           </Route>
-          <Route path='/home' compoent={Home} exact>
-            <Home />
-          </Route>
-          <Route path='/about' compoent={About} exact>
+          <Route path='/about' component={About} exact>
             <About />
           </Route>
-          <Route path='/menu' compoent={Menu} exact>
+          <Route path='/menu' component={Menu} exact>
             <Menu />
           </Route>
-          <Route path='/desserts' compoent={Desserts} exact>
+          <Route path='/desserts' component={Desserts} exact>
             <Desserts />
           </Route>
-          <Route path='/contact' compoent={Contact} exact>
+          <Route path='/contact' component={Contact} exact>
             <Contact />
           </Route>
+          <Route path="/" component={Home} />
     
         </Switch>
         <Footer />
