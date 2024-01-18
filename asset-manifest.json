@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pizza/static/css/main.250cf2b5.css",
+    "main.js": "/pizza/static/js/main.d63b8249.js",
+    "static/js/787.436daf27.chunk.js": "/pizza/static/js/787.436daf27.chunk.js",
+    "static/media/pizzaLeft.jpg": "/pizza/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/pizza/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/pizza/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/pizza/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/cocktail-cake.avif": "/pizza/static/media/cocktail-cake.a3b8173f6b6cd699ce3e.avif",
+    "static/media/pizzaLogo.png": "/pizza/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/pizza/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/pizza/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/pizza/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/noazet-cake.avif": "/pizza/static/media/noazet-cake.05db1a5d543914acc4d2.avif",
+    "static/media/margherita.jpg": "/pizza/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/pizza/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "static/media/french-cake.avif": "/pizza/static/media/french-cake.2db6fa9945df26922fd1.avif",
+    "static/media/wedding-cake.avif": "/pizza/static/media/wedding-cake.12f64c132282af4be14b.avif",
+    "index.html": "/pizza/index.html",
+    "main.250cf2b5.css.map": "/pizza/static/css/main.250cf2b5.css.map",
+    "main.d63b8249.js.map": "/pizza/static/js/main.d63b8249.js.map",
+    "787.436daf27.chunk.js.map": "/pizza/static/js/787.436daf27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250cf2b5.css",
+    "static/js/main.d63b8249.js"
+  ]
+}
